@@ -1,6 +1,6 @@
 # Let Me Ask Server
 
-![Let Me Ask Server Cover](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
+![Let Me Ask Server Cover](https://github.com/user-attachments/assets/54ef9379-e0f9-4d7f-8910-735c41da6084)
 
 Let Me Ask Server é a API backend de uma aplicação inovadora para responder, em tempo real, perguntas de pessoas que estão assistindo a uma live — mesmo que tenham chegado atrasadas. O objetivo é utilizar inteligência artificial e um banco vetorial para buscar respostas baseadas no que foi falado durante a transmissão, permitindo que qualquer espectador recupere informações relevantes do momento exato da live. O projeto está em desenvolvimento inicial.
 
